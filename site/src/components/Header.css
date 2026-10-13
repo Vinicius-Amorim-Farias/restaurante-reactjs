@@ -1,0 +1,29 @@
+.cabecalho {
+background-color: #22110d;
+color: white;
+padding: 18px 40px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.cabecalho-logo {
+margin: 0; font-size: 26px;
+}
+.cabecalho-menu {
+display: flex; gap: 20px;
+}
+.cabecalho-menu a {
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+.cabecalho-menu a:hover {
+color: #f85e38;
+}
+@media (max-width: 700px) {
+.cabecalho {
+flex-direction: column;
+gap: 15px;
+text-align: center;
+}
+}

@@ -1,0 +1,19 @@
+.pagina-home {
+background-color: #f4f6f8;
+}
+.home-sobre {
+max-width: 800px;
+margin: 40px auto;
+padding: 30px;
+background-color: white;
+border-radius: 14px;
+text-align: center;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+}
+.home-sobre h2 {
+color: #22110d;
+}
+.home-sobre p {
+font-size: 18px;
+line-height: 1.6;
+}

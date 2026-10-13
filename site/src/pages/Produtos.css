@@ -1,0 +1,15 @@
+.pagina-produtos {
+padding: 40px 20px;
+text-align: center;
+}
+.pagina-produtos h2 {
+font-size: 32px;
+margin-bottom: 30px;
+color: #22110d;
+}
+.lista-produtos {
+display: flex;
+justify-content: center;
+gap: 25px;
+flex-wrap: wrap;
+}
